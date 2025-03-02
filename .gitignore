@@ -25,7 +25,8 @@ yarn-error.log*
 
 # Docker e build
 docker-shield
-relatory/
+relatory/SecIssues.md
+relatory/trivy_report.json
 !relatory/.gitkeep  # Permite manter a pasta vazia no Git
 
 # Ambientes e chaves
